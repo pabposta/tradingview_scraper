@@ -1,6 +1,5 @@
-require 'rubygems'
-require 'HTTParty'
-require 'Nokogiri'
+require 'httparty'
+require 'nokogiri'
 
 # get command line arguments
 if ARGV.length != 3
